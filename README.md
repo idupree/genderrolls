@@ -22,6 +22,10 @@ $ npm install
 $ npm test
 ```
 
+```sh
+$ node -pe 'require(".").genderRoll("I would like a gender roll please.")'
+```
+
 ## Versioning policy
 
 We use semver. We'll bump a minor version when adding/changing rolls, and a patch version when fixing bugs.
